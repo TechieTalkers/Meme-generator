@@ -24,3 +24,6 @@ main{
     cursor: pointer;
     grid-column: 1 / -1;
 }
+.meme-image{
+    max-width: 100%;
+}
